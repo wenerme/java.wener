@@ -1,0 +1,1 @@
+package me.wener.commons.patterns;
